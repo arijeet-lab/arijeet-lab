@@ -11,7 +11,8 @@
  <br/>
  
 ## 👨🏻‍💻 About Me:
-<img  src="./Git_Commit.gif" height="100px" width="120" align="right" />
+<img  src="./Git_Commit.gif" height="200px" width="200" align="right" />
+
 - 🙋‍♂️ All about me is at **[My Website] coming soon **
 - 🔭 I’m currently working on <a href="https://www.replicon.com/" target="_blank"><img height="20" width="120" alt="Arijeet Sahoo"  src="./deltek_replicon.png" /></a>
 - 🌱 I’m currently learning `AWS Solution Architect Associate`
