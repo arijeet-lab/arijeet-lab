@@ -17,5 +17,5 @@
 - 💬 Ask me about `AWS, DevOps`
 
 - ## 🛠️ Technologies and Tools I use:
-- AWS RDS/Aurora Linux Docker Kubernetes Terraform Jenkins Python npm
+- AWS , RDS/Aurora , Linux , Docker , Kubernetes , Terraform , Jenkins , Python , npm.
 
