@@ -12,7 +12,7 @@
  
 ## 👨🏻‍💻 About Me:
 - 🙋‍♂️ All about me is at **[My Website] coming soon **
-- 🔭 I’m currently working on <a href="https://www.replicon.com/" target="_blank"><img height="10" width="200" alt="Arijeet Sahoo"  src="./deltek_replicon.png" /></a>
+- 🔭 I’m currently working on <a href="https://www.replicon.com/" target="_blank"><img height="20" width="100" alt="Arijeet Sahoo"  src="./deltek_replicon.png" /></a>
 - 🌱 I’m currently learning `AWS Solution Architect Associate`
 - 💬 Ask me about `AWS, DevOps`
 - 🤝 Let's get connected:<a href="https://www.linkedin.com/in/arijeet-sahoo/" target="_blank"><img height="20" alt="Arijeet Sahoo"  src="./linkdin.png" /></a>
