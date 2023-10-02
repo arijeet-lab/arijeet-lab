@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning `AWS Solution Architect Associate`
 - 💬 Ask me about `AWS, DevOps`
 - 🤝 Let's get connected:
-<a href="https://www.linkedin.com/in/arijeet-sahoo/" target="_blank"><img height="55" alt="Arijeet Sahoo"  src="./linkdin.png" />
+<a href="https://www.linkedin.com/in/arijeet-sahoo/" target="_blank"><img height="20" alt="Arijeet Sahoo"  src="./linkdin.png" />
 </a>
 
 - ## 🛠️ Technologies and Tools I use:
