@@ -11,7 +11,7 @@
  <br/>
  
 ## 👨🏻‍💻 About Me:
-<img  src="./Git_Commit.gif" height="250px" width="400" align="right" />
+<img  src="./Git_Commit.gif" height="300px" width="450" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website] coming soon **
 - 🔭 I’m currently working on <a href="https://www.replicon.com/" target="_blank"><img height="20" width="120" alt="Arijeet Sahoo"  src="./deltek_replicon.png" /></a>
