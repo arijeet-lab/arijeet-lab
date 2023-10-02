@@ -6,8 +6,10 @@
 </div>
 <!--
 **arijeet-lab/arijeet-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+ <br/>
+ 
 ## 👨🏻‍💻 About Me:
 - 🙋‍♂️ All about me is at **[My Website] coming soon **
 - 🔭 I’m currently working on `Replicon INC`
@@ -18,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
