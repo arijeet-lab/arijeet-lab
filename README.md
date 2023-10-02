@@ -15,6 +15,9 @@
 - 🔭 I’m currently working on `Replicon INC`
 - 🌱 I’m currently learning `AWS Solution Architect Associate`
 - 💬 Ask me about `AWS, DevOps`
+<a href="https://www.linkedin.com/in/arijeet-sahoo/" target="_blank">
+  <img height="55" alt="Arijeet Sahoo | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+</a>
 
 - ## 🛠️ Technologies and Tools I use:
 - AWS , RDS/Aurora , Linux , Docker , Kubernetes , Terraform , Jenkins , Python , npm.
